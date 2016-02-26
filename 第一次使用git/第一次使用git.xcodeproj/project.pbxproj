@@ -499,6 +499,7 @@
 				CF2535081C800DF10032131D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF2535091C800DF10032131D /* Build configuration list for PBXNativeTarget "第一次使用gitTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +508,7 @@
 				CF25350B1C800DF10032131D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF25350C1C800DF10032131D /* Build configuration list for PBXNativeTarget "第一次使用gitUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +517,7 @@
 				CF25350E1C800DF10032131D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
